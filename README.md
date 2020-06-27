@@ -6,29 +6,29 @@
 
 于是我就在闲暇之余(~~全天~~)编写了这个插件，用于屏蔽自己讨厌的用户的所有发言。
 
-###安装
+### 安装
 chrome下安装TamperMonkey插件，在[GreasyFork](https://greasyfork.org/zh-CN/scripts/406142-byr-bbs-user-blocker)上点击安装。
 
 其他浏览器的其他插件可能可以使用，但没有经过测试。如有问题欢迎在github上提issue。
 
-###使用
+### 使用
 1. 屏蔽用户
 
     点击屏蔽用户
     
-    ![img](https://greasyfork.org/system/screenshots/screenshots/000/021/886/thumb/BBUB2.png?1593249577)
+    ![img](https://greasyfork.org/system/screenshots/screenshots/000/021/886/original/BBUB2.png?1593249577)
 2. 屏蔽后效果
 
-    ![img](https://greasyfork.org/system/screenshots/screenshots/000/021/887/thumb/BBUB1.png?1593249578)
+    ![img](https://greasyfork.org/system/screenshots/screenshots/000/021/887/original/BBUB1.png?1593249578)
 3. 查看被屏蔽的用户
 
     控制面板==>好友/黑名单==>黑名单
     
-###安全
+### 安全
 
 脚本完全基于前端，所使用的数据均存储在北邮人论坛的服务器上。
 
-###其他
+### 其他
 * github地址：https://github.com/Mad-Devil/byr-bbs-user-blocker
 * GreasyFork地址：https://greasyfork.org/zh-CN/scripts/406142-byr-bbs-user-blocker
 
