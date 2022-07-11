@@ -6,7 +6,7 @@
 // @author       MadDevil
 // @match        *://bbs.byr.cn/*
 // @grant        GM_xmlhttpRequest
-// @require      https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js
+// @require      https://code.jquery.com/jquery-3.6.0.min.js
 // ==/UserScript==
 
 
